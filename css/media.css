@@ -1,0 +1,722 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 320.98px) {
+	.banner_content .banner_des h2 {
+    margin-top: 100px;
+    font-size: 25px;
+}
+.banner_content .banner_des p {
+    font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .dept_header h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.banner_content .banner_des .btn-learn-more {
+    margin-bottom: 125px;
+    }
+.limit .container {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    }
+    .limit_des h2 {
+    font-size: 25px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.limit_des p {
+    margin-bottom: 18px;
+}
+	.limit_img {
+    height: 208px;
+}
+	.limit_img:before {
+    width: 198px;
+    top: 13px;
+    left: 81px;
+}
+.limit .play-btn {
+    margin-top: -155px;
+    margin-left: 134px;
+}
+
+.limit_des .counters span {
+    font-size: 35px;
+    }
+        .form_heading {
+    margin-top: 50px;
+}
+.form_heading h4 {
+    font-size: 14px;
+    }
+    .form_heading h2 {
+    font-size: 25px;
+}
+.form_head {
+    padding-top: 30px;
+    padding-bottom: 35px;
+}
+input {
+    margin-left: 33px;
+}
+form {
+    margin-top: 20px !important;
+}
+.cus_form_check {
+    margin-left: 33px;
+    padding-bottom: 25px;
+}
+.form_btn .cus_form_btn {
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+.form_last {
+    margin-left: 0px;
+        text-align: center;
+    }
+.form {
+        height: 775px;
+}
+.our {
+        padding-top: 50px;
+    padding-bottom: 56px;
+}
+.our_btn .cus_our_btn {
+       margin-top: 16px;
+    margin-right: 10px;
+
+}
+.our_side_con h2 {
+    font-size: 25px;
+}
+.our_side_con p {
+    font-size: 15px;
+    }
+    .apply_head h2 {
+    color: #252c3a;
+    font-size: 23px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 12px;
+}
+.font_side, .apply_right p {
+    margin-right: 13px;
+    }
+    /*footer start*/
+footer {
+    height: 100px;
+}
+.newsletter {
+    margin-bottom: 30px;
+}
+.footer_up {
+    padding-top: 45px;
+}
+.f_logo {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.mixed {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.mixed h4 {
+    margin-bottom: 20px;
+}
+.footer-copy-right p {
+    text-align: center;
+        margin-bottom: 2px;
+    }
+.right{
+	    float: none !important;
+    text-align: center;
+	}
+	.right ul li {
+    margin-top: 0px;
+}
+}
+/*custom*/
+@media (min-width: 321px) and (max-width: 375.98px) {
+	.banner_content .banner_des h2 {
+    margin-top: 100px;
+    font-size: 25px;
+}
+.banner_content .banner_des p {
+    font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .dept_header h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.banner_content .banner_des .btn-learn-more {
+    margin-bottom: 125px;
+    }
+  .limit .container {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    }
+    .limit_des h2 {
+    font-size: 25px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.limit_des p {
+    margin-bottom: 18px;
+}
+	.limit_img {
+        height: 249px;
+}
+	.limit_img:before {
+        width: 235px;
+    top: 13px;
+    left: 96px;
+}
+.limit .play-btn {
+        margin-top: -175px;
+    margin-left: 165px;
+}
+
+.limit_des .counters span {
+    font-size: 35px;
+    }
+        .form_heading {
+    margin-top: 50px;
+}
+.form_heading h4 {
+    font-size: 14px;
+    }
+    .form_heading h2 {
+    font-size: 25px;
+}
+.form_head {
+    padding-top: 30px;
+    padding-bottom: 35px;
+}
+input {
+    margin-left: 33px;
+}
+form {
+    margin-top: 20px !important;
+}
+.cus_form_check {
+    margin-left: 33px;
+    padding-bottom: 25px;
+}
+.form_btn .cus_form_btn {
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+.form_last {
+    margin-left: 0px;
+        text-align: center;
+    }
+.form {
+        height: 775px;
+}
+.our {
+        padding-top: 50px;
+    padding-bottom: 56px;
+}
+.our_btn .cus_our_btn {
+       margin-top: 16px;
+    margin-right: 10px;
+
+}
+.our_side_con h2 {
+    font-size: 25px;
+}
+.our_side_con p {
+    font-size: 15px;
+    }
+    .apply_head h2 {
+    color: #252c3a;
+    font-size: 23px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 12px;
+}
+.font_side, .apply_right p {
+    margin-right: 13px;
+    }
+    /*footer start*/
+footer {
+    height: 100px;
+}
+.newsletter {
+    margin-bottom: 30px;
+}
+.footer_up {
+    padding-top: 45px;
+}
+.f_logo {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.mixed {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.mixed h4 {
+    margin-bottom: 20px;
+}
+.footer-copy-right p {
+    text-align: center;
+        margin-bottom: 2px;
+    }
+.right{
+	    float: none !important;
+    text-align: center;
+	}
+	.right ul li {
+    margin-top: 0px;
+}
+	}
+	/*custom*/
+	@media (min-width: 376px) and (max-width: 425.98px){
+	.banner_content .banner_des h2 {
+    margin-top: 100px;
+    font-size: 25px;
+}
+.banner_content .banner_des p {
+    font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .dept_header h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.banner_content .banner_des .btn-learn-more {
+    margin-bottom: 125px;
+    }
+   .limit .container {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    }
+    .limit_des h2 {
+    font-size: 25px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.limit_des p {
+    margin-bottom: 18px;
+}
+	.limit_img {
+            height: 286px;
+}
+	.limit_img:before {
+        width: 272px;
+    top: 13px;
+    left: 108px;
+}
+.limit .play-btn {
+         margin-top: -190px;
+    margin-left: 197px;
+}
+
+.limit_des .counters span {
+    font-size: 35px;
+    }
+        .form_heading {
+    margin-top: 50px;
+}
+.form_heading h4 {
+    font-size: 14px;
+    }
+    .form_heading h2 {
+    font-size: 25px;
+}
+.form_head {
+    padding-top: 30px;
+    padding-bottom: 35px;
+}
+input {
+    margin-left: 33px;
+}
+form {
+    margin-top: 20px !important;
+}
+.cus_form_check {
+    margin-left: 33px;
+    padding-bottom: 25px;
+}
+.form_btn .cus_form_btn {
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+.form_last {
+    margin-left: 0px;
+        text-align: center;
+    }
+.form {
+        height: 775px;
+}
+.our {
+        padding-top: 50px;
+    padding-bottom: 56px;
+}
+.our_btn .cus_our_btn {
+       margin-top: 16px;
+    margin-right: 10px;
+
+}
+.our_side_con h2 {
+    font-size: 25px;
+}
+.our_side_con p {
+    font-size: 15px;
+    }
+    .apply_head h2 {
+    color: #252c3a;
+    font-size: 23px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 12px;
+}
+.font_side, .apply_right p {
+    margin-right: 13px;
+    }
+    /*footer start*/
+footer {
+    height: 100px;
+}
+.newsletter {
+    margin-bottom: 30px;
+}
+.footer_up {
+    padding-top: 45px;
+}
+.f_logo {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.mixed {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.mixed h4 {
+    margin-bottom: 20px;
+}
+.footer-copy-right p {
+    text-align: center;
+        margin-bottom: 2px;
+    }
+.right{
+	    float: none !important;
+    text-align: center;
+	}
+	.right ul li {
+    margin-top: 0px;
+}
+	}
+	/*custom*/
+	@media (min-width: 426px) and (max-width: 575.98px) {
+	.banner_content .banner_des h2 {
+    margin-top: 100px;
+    font-size: 25px;
+}
+.banner_content .banner_des p {
+    font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .dept_header h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.banner_content .banner_des .btn-learn-more {
+    margin-bottom: 125px;
+    }
+    .limit .container {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    }
+    .limit_des h2 {
+    font-size: 25px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.limit_des p {
+    margin-bottom: 18px;
+}
+	.limit_img {
+        height: 347px;
+}
+	.limit_img:before {
+        width: 330px;
+    top: 13px;
+    left: 133px;
+}
+.limit .play-btn {
+       margin-top: -228px;
+    margin-left: 254px;
+}
+
+.limit_des .counters span {
+    font-size: 35px;
+    }
+    .limit_des h2 {
+    margin-top: 40px;
+}
+        .form_heading {
+    margin-top: 50px;
+}
+.form_heading h4 {
+    font-size: 14px;
+    }
+    .form_heading h2 {
+    font-size: 25px;
+}
+.form_head {
+    padding-top: 30px;
+    padding-bottom: 35px;
+}
+input {
+    margin-left: 33px;
+}
+form {
+    margin-top: 20px !important;
+}
+.cus_form_check {
+    margin-left: 33px;
+    padding-bottom: 25px;
+}
+.form_btn .cus_form_btn {
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+.form_last {
+    margin-left: 0px;
+        text-align: center;
+    }
+.form {
+        height: 775px;
+}
+.our {
+        padding-top: 50px;
+    padding-bottom: 56px;
+}
+.our_btn .cus_our_btn {
+       margin-top: 16px;
+    margin-right: 10px;
+
+}
+.our_side_con h2 {
+    font-size: 25px;
+}
+.our_side_con p {
+    font-size: 15px;
+    }
+    .apply_head h2 {
+    color: #252c3a;
+    font-size: 23px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 12px;
+}
+.font_side, .apply_right p {
+    margin-right: 13px;
+    }
+    /*footer start*/
+footer {
+    height: 100px;
+}
+.newsletter {
+    margin-bottom: 30px;
+}
+.footer_up {
+    padding-top: 45px;
+}
+.f_logo {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.mixed {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.mixed h4 {
+    margin-bottom: 20px;
+}
+.footer-copy-right p {
+    text-align: center;
+        margin-bottom: 2px;
+    }
+.right{
+	    float: none !important;
+    text-align: center;
+	}
+	.right ul li {
+    margin-top: 0px;
+}
+	}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.banner_content .banner_des h2 {
+    margin-top: 120px;
+}
+.banner_content .banner_des .btn-learn-more {
+    margin-bottom: 338px;
+    }
+        .limit_img {
+    height: 368px;
+}
+.limit_img:before {
+    width: 348px;
+    top: 18px;
+    left: 143px;
+
+    }
+    .limit .play-btn {
+    margin-top: -241px;
+    margin-left: 268px;
+}
+.limit_des h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 45px;
+    }
+    .limit .container {
+    	padding-top: 45px;
+    padding-bottom: 50px;
+}
+    .form_heading {
+    margin-top: 70px;
+}
+form {
+    margin-top: 20px !important;
+}
+.form {
+    height: 830px;
+}
+.our {
+    padding-top: 70px;
+    padding-bottom: 80px;
+}
+.our_btn .cus_our_btn {
+    margin-top: 30px;
+}
+
+/*footer start*/
+footer {
+    height: 92px;
+}
+.f_logo {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.mixed {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.mixed h4 {
+    margin-bottom: 20px;
+}
+.footer-copy-right p {
+    text-align: center;
+        margin-bottom: 10px;
+    }
+.right{
+	    float: none !important;
+    text-align: center;
+	}
+	.right ul li {
+    margin-top: 0px;
+}
+	}
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.banner_content .banner_des h2 {
+    margin-top: 120px;
+}
+.banner_content .banner_des .btn-learn-more {
+    margin-bottom: 348px;
+    }
+       .limit .container {
+      padding-top: 70px;
+    padding-bottom: 50px;
+}
+.limit_img {
+        height: 237px;
+            margin-top: 135px;
+    }
+.limit_img:before {
+    width: 223px;
+    top: 13px;
+    left: 94px;
+    }
+    .limit .play-btn {
+    margin-top: -175px;
+    margin-left: 160px;
+}
+.limit_des h2 {
+    font-size: 32px;
+    margin-bottom: 35px;
+}
+.limit_des .counters span {
+    font-size: 35px;
+    }
+    .limit_des .counters p {
+    font-size: 14px;
+}
+.limit_des p {
+    margin-bottom: 15px;
+    }
+    .form_heading {
+    margin-top: 70px;
+}
+form {
+    margin-top: 20px !important;
+}
+.form {
+    height: 770px;
+}
+.our {
+    padding-top: 70px;
+    padding-bottom: 80px;
+}
+.our_btn .cus_our_btn {
+    margin-right: 0px;
+
+}
+/*footer start*/
+.footer_up {
+    padding-top: 50px;
+}
+.f_logo {
+    margin-bottom: 45px;
+}
+.newsletter {
+    margin-bottom: 40px;
+}
+}
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.limit .container {
+      padding-top: 70px;
+    padding-bottom: 80px;
+}
+.limit_img {
+    height: 325px;
+    }
+.limit_img:before {
+    width: 310px;
+    top: 15px;
+    left: 124px;
+    }
+    .limit .play-btn {
+    margin-top: -218px;
+    margin-left: 235px;
+}
+
+	}
+
+	/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
